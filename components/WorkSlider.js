@@ -14,14 +14,14 @@ export const workSlides = {
           link: 'https://github.com/Dipesh-Chandekar/Employee_Data',
         },
         {
-          title: 'Shop Sales Data Analysis',
-          path: '/Order_Detail.png',
-          link: 'https://www.novypro.com/project/sales-order-details',
-        },
-        {
           title: 'Vrinada Store Sales Report',
           path: '/Vrinada_Store.png',
           link: 'https://www.novypro.com/project/vrinada-store-sales-report',
+        },
+        {
+          title: 'Sales Data Analysis',
+          path: '/Order_Detail.png',
+          link: 'https://www.novypro.com/project/sales-order-details',
         },
       ],
     },

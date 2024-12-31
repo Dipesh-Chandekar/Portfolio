@@ -41,13 +41,13 @@ export const aboutData = [
         title: 'Data Analysis Tools: ',
         stage: 'Excel, Power BI',
       },
-      {
-        title: 'Data Skills: ',
-        stage: 'Data Cleaning, Data Visualization, Statistical Analysis, Predictive Modeling',
-      },
+      // {
+      //   title: 'Data Skills: ',
+      //   stage: 'Data Cleaning, Data Visualization, Statistical Analysis, Predictive Modeling',
+      // },
       {
         title: 'Other Skills: ',
-        stage: 'Problem-Solving, Project Management, Chat.GPT and Other AI tools.',
+        stage: 'Problem-Solving, Project Management, ChatGPT.',
       }
 
 
@@ -142,15 +142,15 @@ export const aboutData = [
 
       {
         title: 'Certified Data Analyst by Vertocity',
-        stage: ' - 2024',
+        stage: '2024',
       },
       {
         title: 'Certified in Python Programming by Vertocity',
-        stage: ' - 2024',
+        stage: '2024',
       },
       {
-        title: 'Certified in Microsoft Power BI for Data Analysis by LinkedIn Learning',
-        stage: ' - 2024',
+        title: 'Certified in Microsoft Power BI by LinkedIn Learning',
+        stage: '2024',
       },
       // {
       //   title: "Google Cloud Platform - SkillUp",

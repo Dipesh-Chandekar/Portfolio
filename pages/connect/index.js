@@ -67,7 +67,7 @@ const Connect = () => {
               <div className='flex-1 flex flex-row py-4 text-[18px] gap-x-2'>
                 <div className='text-white/60'>Email</div>
                 <span className=''>-</span>
-                <div>dipeshchandekar2409@gmail.com</div>
+                <div>dipeshchandekar99@gmail.com</div>
               </div>
               <div className='flex-1 flex flex-row py-4 gap-x-4 xl:gap-x-6'>
                 {data.map((item, index) => {
@@ -89,7 +89,7 @@ const Connect = () => {
                 overflow-hidden hover:border-accent group'>
                 <span className='group-hover:-translate-y-[120%] group-hover:opacity-0 transition-all duration-500'>Resume</span>
                 <span className='-translate-y-[120%] opacity-0 group-hover:flex group-hover:-translate-y-0 group-hover:opacity-100 transition-all duration-300 absolute text-[15px]'>
-                  <a href="https://drive.google.com/file/d/1kOMGnwL2pCMTQjZXXypOFVcJ0u-RfFt8/view?usp=sharing" target="_blank" rel="noreferrer">Link to Download</a>
+                  <a href="https://drive.google.com/file/d/1dZ1mIH8n11ZTpztg0xS8YEUUJONgVx5q/view?usp=sharing" target="_blank" rel="noreferrer">Link to Download</a>
                 </span>
               </button>
             </div>
